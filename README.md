@@ -3,6 +3,8 @@
 🎓 Computer Science & Engineering Graduate  
 💻 Junior Software Developer  
 🚀 Open to Opportunities | Passionate about Learning & Building
+![Profile views](https://komarev.com/ghpvc/?username=faria200118&color=blue)
+
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
