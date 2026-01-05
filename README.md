@@ -50,7 +50,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Faria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faria200118&show_icons=true&count_private=true&theme=radical)
+![Faria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faria200118&show_icons=true&hide_title=true&theme=radical)
 
 ### 🔥 GitHub Streak
 ![Faria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faria200118&theme=radical)
