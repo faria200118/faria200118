@@ -6,8 +6,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=faria200118&color=blue)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Faria+Preeti;CSE+Student+|+Developer&font=Fira+Code&size=22&duration=3000&color=FF5733)
-
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/faria-preeti-0355a8280">
@@ -80,6 +78,14 @@
   </a>
 </p>
 
+## GitHub Stats
+![Faria's GitHub stats](https://github-readme-stats.vercel.app/api?username=faria200118&show_icons=true&theme=radical)
+
+## GitHub Streak
+![Faria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faria200118&theme=radical)
+
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=faria200118&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
