@@ -6,6 +6,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=faria200118&color=blue)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Faria+Preeti;CSE+Student+|+Developer&font=Fira+Code&size=22&duration=3000&color=FF5733)
+
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/faria-preeti-0355a8280">
