@@ -79,7 +79,7 @@
 </p>
 
 ## GitHub Stats
-![Faria's GitHub stats](https://github-readme-stats.vercel.app/api?username=faria200118&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=faria200118&show_icons=true&theme=radical
 
 ## GitHub Streak
 ![Faria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faria200118&theme=radical)
