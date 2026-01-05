@@ -6,6 +6,20 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=faria200118&color=blue)
 
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/faria-preeti-0355a8280">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/faria.preeti.2025">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
+  </a>
+  <a href="fariapreeticse@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
+  </a>
+</p>
+
+
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
